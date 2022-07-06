@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1617237330 source:c:\users\lenovo\desktop\gradeimport\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1617237332 source:l:\数据结构实验课2021\实验一\gradeimport\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1617237332 source:d:\数据结构实验课2021\实验一\gradeimport\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

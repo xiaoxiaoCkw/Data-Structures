@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620446120 source:d:\数据结构实验课2021\第三次实验\metromap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
